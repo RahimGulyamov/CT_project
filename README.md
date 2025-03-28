@@ -8,13 +8,13 @@
 
 ## Скриншоты
 
-!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/menu.png)
+![Меню выбора перонажа](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/menu.png)
 
 
-!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/start.png)
+![Старт игры](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/start.png)
 
 
-!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/game.png)
+![Игра](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/game.png)
 
 ## Управление
 
