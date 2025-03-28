@@ -16,6 +16,10 @@
 
 ![Игра](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/game.png)
 
+<p align="center">
+ <img width="200px" src="screenshots/game.png" alt="qr"/>
+</p>
+
 ## Управление
 
 - **WASD** — передвижение
