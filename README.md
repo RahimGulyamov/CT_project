@@ -8,13 +8,13 @@
 
 ## Скриншоты
 
-![screenshots/menu.png]
+!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/menu.png)
 
 
-![screenshots/start.png]
+!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/start.png)
 
 
-![screenshots/game.png]
+!(https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/game.png)
 
 ## Управление
 
