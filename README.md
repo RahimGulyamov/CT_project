@@ -8,16 +8,18 @@
 
 ## Скриншоты
 
-![Меню выбора перонажа](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/menu.png)
+<p align="center">
+ <img width="800px" src="screenshots/menu.png" alt="qr"/>
+</p>
 
-
-![Старт игры](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/start.png)
-
-
-![Игра](https://github.com/RahimGulyamov/CT_project/tree/main/screenshots/game.png)
 
 <p align="center">
- <img width="200px" src="screenshots/game.png" alt="qr"/>
+ <img width="800px" src="screenshots/start.png" alt="qr"/>
+</p>
+
+
+<p align="center">
+ <img width="800px" src="screenshots/game.png" alt="qr"/>
 </p>
 
 ## Управление
